@@ -16,6 +16,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Bauchi](https://github.com/unicodeveloper/tech-hubs#bauchi)
 
+* [Bayelsa] (https://github.com/unicodeveloper/tech-hubs#bayelsa)
+
 • [Cross River](https://github.com/unicodeveloper/tech-hubs#cross-river)
 
 • [Delta](https://github.com/unicodeveloper/tech-hubs#delta)
@@ -154,6 +156,11 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Uplift Hub](https://uplift.ng)
   Uplift Hub, 1st Floor Isa Yuguda House Adjacent Chartwel Hotel, Jos - Bauchi Rd, Bauchi, Nigeria
 
+## Bayelsa
+
+- [Bayelsa Tech Hub](https://bayelsatechhub.com)
+  4th Floor, Transparency Building, Beside CBN, Ox-Bow Lake Road, Yenagoa, Bayelsa State.
+
 ## Cross River
 
 - [iDEA Hub](http://www.idea-nigeria.org)
@@ -169,8 +176,12 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [DS-iHub](http://dsihub.org.ng)
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
+
 - [Warri Innovation Hub](https://www.warriinnovationhub.com)
   3rd floor, Isoken Plaza, Enerhen Junction, Warri.
+
+- [Olotu Square](http://www.olotusquare.co)
+  Suite 2, Manuex Plaza, Jakpa Road, Warri, Delta State.
   
 ## Edo
 
