@@ -16,7 +16,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 • [Bauchi](https://github.com/unicodeveloper/tech-hubs#bauchi)
 
-* [Bayelsa] (https://github.com/unicodeveloper/tech-hubs#bayelsa)
+• [Bayelsa](https://github.com/unicodeveloper/tech-hubs#bayelsa)
 
 • [Cross River](https://github.com/unicodeveloper/tech-hubs#cross-river)
 
